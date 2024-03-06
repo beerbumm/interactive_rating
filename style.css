@@ -1,0 +1,12 @@
+body {
+  background: hsl(216, 12%, 8%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  height: 100vh;
+}
+
+.card {
+  margin: 0 auto;
+}
