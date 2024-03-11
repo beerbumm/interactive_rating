@@ -5,8 +5,32 @@ body {
   justify-content: center;
   margin: 0;
   height: 100vh;
+  font-family: "Overpass", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+input {
+  background-color: hsl(25, 97%, 53%);
+  border: none;
+  color: white;
+  padding: 10px 135px;
+  border-radius: 20px;
+}
+
+p {
+  color: hsl(217, 12%, 63%);
+  font-size: 15px;
+  font-weight: 400;
 }
 
 .card {
   margin: 0 auto;
+  height: 415px;
+  border-radius: 35px;
+  background-color: hsl(213, 19%, 18%);
 }
